@@ -55,7 +55,7 @@ text[strcspn(text, "\n")] = '\0';
 }
 ```
 ## OUTPUT:
-<img width="495" height="134" alt="image" src="https://github.com/user-attachments/assets/67b3b262-cae6-4cdf-95c2-87702ddcaedb" />
+<img width="295" height="82" alt="image" src="https://github.com/user-attachments/assets/a4289528-59ba-449b-9668-ad0ecfee9a09" />
 
 
 ## RESULT :
